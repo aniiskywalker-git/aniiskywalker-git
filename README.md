@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniiskywalker-git
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning iOS development.. continously
-- 💞️ I’m looking to collaborate on frameworks or looking for someone to teach me how to make unit tests
+- 💞️ I’m looking to collaborate on frameworks and learn CI/CD + unit testing
 - 📫 How to reach me anavictoria.frias.25@outlook.com
 
 <!---
